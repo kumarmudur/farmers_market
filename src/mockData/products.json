@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Arecanut",
+            "url": "arecanut.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Ginger",
+            "url": "ginger.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Corn",
+            "url": "corn.jpg"
+        }
+    ]
+}
